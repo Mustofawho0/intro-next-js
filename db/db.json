@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "ini Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Monitor",
+      "description": "ini Monitor"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "description": "ini Keyboard"
+    },
+    {
+      "id": 4,
+      "name": "Mouse",
+      "description": "ini Mouse"
+    },
+    {
+      "id": 5,
+      "name": "Headset",
+      "description": "ini Headset"
+    }
+  ]
+}
